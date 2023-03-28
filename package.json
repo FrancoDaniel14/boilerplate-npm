@@ -3,9 +3,7 @@
 	"description": "Project to learn how to manage packages with NPM.",
 	"name": "fcc-learn-npm-package-json",
 	"keywords": [
-		"freecodecamp",
-		"fdac-boilerplate-npm",
-		"fdac"
+		"freecodecamp"
 	],
 	"dependencies": {
 		"express": "^4.14.0"
