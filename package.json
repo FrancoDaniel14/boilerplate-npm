@@ -4,7 +4,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"keywords": [
 		"freecodecamp",
-		"fdac-boilerplate-npm"
+		"fdac-boilerplate-npm",
+		"fdac"
 	],
 	"dependencies": {
 		"express": "^4.14.0"
