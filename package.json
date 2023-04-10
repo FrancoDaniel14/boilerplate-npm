@@ -3,6 +3,7 @@
 	"description": "Project to learn how to manage packages with NPM.",
 	"name": "fcc-learn-npm-package-json",
 	"license": "FDAC",
+	"version": "1.0.0",
 	"keywords": [
 		"freecodecamp"
 	],
