@@ -2,6 +2,7 @@
 	"author": "Franco Daniel Aldunate Cordero",
 	"description": "Project to learn how to manage packages with NPM.",
 	"name": "fcc-learn-npm-package-json",
+	"license": "FDAC",
 	"keywords": [
 		"freecodecamp"
 	],
